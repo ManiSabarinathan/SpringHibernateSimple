@@ -18,7 +18,7 @@
 		<org.slf4j-version>1.6.6</org.slf4j-version>
 		<hibernate.version>5.2.11.Final</hibernate.version>
 		<hibernate.validator>5.4.1.Final</hibernate.validator>
-		<c3p0.version>0.9.5.2</c3p0.version>
+		<c3p0.version>0.9.5.3</c3p0.version>
 		<tld.version>1.1.2</tld.version>
 	</properties>
 	<dependencies>
